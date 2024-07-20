@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I am a passionate software developer and here are some of my achievements:
 
-![LeetCode 50 Days Badge](https://imgur.com/a/VC4EwZ2)
+![LeetCode 50 Days Badge]([https://imgur.com/a/VC4EwZ2](https://imgur.com/a/NKNH7Mn))

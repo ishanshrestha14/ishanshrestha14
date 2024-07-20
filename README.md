@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 I am a passionate software developer and here are some of my achievements:
-<img src="https://i.imgur.com/ZIsJ7NK.png" alt="LeetCode 50 Days Badge" width="200" height="200"/>
+
+<img src="https://i.imgur.com/ZIsJ7NK.png" alt="LeetCode 50 Days Badge" width="150" style="max-width: 100%; height: auto;"/>
 

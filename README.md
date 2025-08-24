@@ -1,21 +1,26 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="assets/banner.png" alt="Ezzzyyy Banner" width="100%" />
+</p>
 
-<!--
-**Pin3appl3ishan/Pin3appl3ishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-Here are some ideas to get you started:
+I'm Ishan, an aspiring software developer based in Nepal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into working products — fast. From e-commerce platforms to AI-powered apps, my projects live at the intersection of **software engineering, design thinking, and problem solving**.
 
-I am a passionate software developer and here are some of my achievements:
+### 🌱 Currently
 
-<img src="https://i.imgur.com/ZIsJ7NK.png" alt="LeetCode 50 Days Badge" width="150" style="max-width: 100%; height: auto;"/>
+Grinding **LeetCode (NeetCode 150)** → Graphs section 📊
 
+### 📫 Connect
+
+<a href="https://www.linkedin.com/in/sthaishan/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://x.com/Pin3isFiN3">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>

@@ -29,9 +29,6 @@ I build **full-stack systems and applied AI projects**, ranging from computer vi
 
 ---
 
-### 🌱 Currently
-
-Grinding **LeetCode (NeetCode 150)** → Graphs section 📊
 
 ---
 

@@ -29,6 +29,7 @@ I build **full-stack systems and applied AI projects**, ranging from computer vi
 
 ---
 Currently - Doing Neetcode 150 (Dynamic Programming)
+
 Reading **Designing Data Intensive Applications**
 
 ---

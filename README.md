@@ -28,7 +28,7 @@ I build **full-stack systems and applied AI projects**, ranging from computer vi
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-Currently - Doing Neetcode 150 (Graphs)
+Currently - Doing Neetcode 150 (Two pointers)
 
 Reading **Designing Data Intensive Applications**
 
